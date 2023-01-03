@@ -23,3 +23,15 @@
    - K-Means Clustering
    - Elbow Method
    - Principal Component Analysis (PCA)
+
+## Some notes
+
+1. Quantifying performance [URL](https://tube.switch.ch/videos/ed489132)
+   - Cross-Validation
+   - F-measure on training and test sets
+   - ROC curve to determine optimal choice of hyperparameters
+   - Confusion matrix to determine if classes are poorly estimated
+   - Sensitivity of performance to choice of training/testing ratio
+   - Poor performance due to unbalanced classes
+   - Overfitting
+   - Tradeoff between computational costs and performance
